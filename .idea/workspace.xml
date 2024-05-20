@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ear:ear exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dee6d42-9b53-469d-a629-3416a871128c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LogisticsManagemetSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear/target/ear-1.0/com.zaviron-web-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/ear/target/ear-1.0/com.zaviron-web-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear/target/ear-1.0/lib/com.zaviron-ejb-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ear/target/ear-1.0/lib/com.zaviron-ejb-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejb/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejb/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejb/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejb/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejb/target/ejb-1.0/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejb/target/ejb-1.0/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/adminHome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/webapp/adminHome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/cargo_details.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/webapp/cargo_details.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/webapp/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/tracking.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/webapp/tracking.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/updateCargoDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/webapp/updateCargoDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0/WEB-INF/lib/ejb-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0/WEB-INF/lib/ejb-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0/adminHome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0/adminHome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0/cargo_details.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0/cargo_details.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0/tracking.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0/tracking.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/web-1.0/updateCargoDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/web-1.0/updateCargoDetails.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gjXunSDO8y39K2x40Qls83rhdC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "GlassFish Server.GlassFish7.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Notebook/Desktop/LogisticsManagemetSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GlassFish7" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish7" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="11 (3)" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ear:ear exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ear:ear exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dee6d42-9b53-469d-a629-3416a871128c" name="Changes" comment="" />
+      <created>1716212186565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716212186565</updated>
+      <workItem from="1716212188198" duration="1732000" />
+      <workItem from="1716216582266" duration="1605000" />
+      <workItem from="1716219441449" duration="396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
